@@ -1,11 +1,10 @@
-[
-  {
+[{
     "id": "1",
     "nombre": "Cocina Mini Nordica",
     "detalles": "MEDIDAS: Alto 90cm/Largo 60cm/Ancho 33cm.",
     "extras": "INCLUYE: Utensillos para colgar (Espátula, cucharon, tenedor), olla, sartén, plato, cubiertos, electrodoméstico.",
     "precio": 90000,
-    "imagen": "./assets/miniCocina.png"
+    "imagen": "assets/miniCocina.png"
   },
   {
     "id": "2",
@@ -13,7 +12,7 @@
     "detalles": "MEDIDAS: Alto 110cm/Largo 75cm/Ancho 35cm.",
     "extras": "INCLUYE: Utensillos para colgar (Espátula, cucharon, tenedor), olla, sartén, plato, cubiertos, electrodoméstico.",
     "precio": 105000,
-    "imagen": "/assets/cocinaNordica.png"
+    "imagen": "assets/cocinaNordica.png"
   },
   {
     "id": "3",
@@ -21,7 +20,7 @@
     "detalles": "MEDIDAS: Alto 13cm/Largo 18cm/Ancho 12cm.",
     "extras": "INCLUYE: 2 tostadas.",
     "precio": 10900,
-    "imagen": "./assets/tostadora.png"
+    "imagen": "assets/tostadora.png"
   },
   {
     "id": "4",
@@ -29,42 +28,42 @@
     "detalles": "MEDIDAS: Alto 17cm/Largo 21cm/Ancho 12cm.",
     "extras": "INCLUYE: Mango batidor.",
     "precio": 13900,
-    "imagen": "./assets/batidora.png"
+    "imagen": "assets/batidora.png"
   },
   {
     "id": "5",
     "nombre": "Caja Registradora",
     "detalles": "MEDIDAS: Alto 15cm/Largo 27cm/Ancho 22cm.",
     "precio": 15990,
-    "imagen": "./assets/cajaRegistradora.png"
+    "imagen": "assets/cajaRegistradora.png"
   },
   {
     "id": "6",
     "nombre": "Licuadora",
     "detalles": "MEDIDAS: Alto 21cm/Largo 18cm/Ancho 15cm.",
     "precio": 13900,
-    "imagen": "./assets/licuadora.png"
+    "imagen": "assets/licuadora.png"
   },
   {
     "id": "7",
     "nombre": "Cafetera",
     "detalles": "MEDIDAS: Alto 17cm/Largo 21cm/Ancho 12cm.",
     "precio": 13800,
-    "imagen": "./assets/cafetera.png"
+    "imagen": "assets/cafetera.png"
   },
   {
     "id": "8",
     "nombre": "Cafetera Expresso",
     "detalles": "MEDIDAS: Alto 23cm/Largo 18cm/Ancho 14cm.",
     "precio": 15300,
-    "imagen": "./assets/cafeteraExpresso.png"
+    "imagen": "assets/cafeteraExpresso.png"
   },
   {
     "id": "9",
     "nombre": "Microondas",
     "detalles": "MEDIDAS: Alto 25cm/Largo 39cm/Ancho 25cm.",
     "precio": 16400,
-    "imagen": "./assets/microondas.png"
+    "imagen": "assets/microondas.png"
   },
   {
     "id": "10",
@@ -72,39 +71,39 @@
     "detalles": "MEDIDAS: Alto 14cm/Largo 27cm",
     "extras": "INCLUYE: Comidas en MDF, set de cubiertos, plato y tabla de picar.",
     "precio": 16999,
-    "imagen": "./assets/discoArado.png"
+    "imagen": "assets/discoArado.png"
   },
   {
     "id": "11",
     "nombre": "Set Cocina",
     "precio": 11200,
-    "imagen": "./assets/setCocina.png"
+    "imagen": "assets/setCocina.png"
   },
   {
     "id": "12",
     "nombre": "Set de Mate",
-    "extras":"INCLUYE: Mate, pava, bombilla, yerbera/azucarera y plato.",
+    "extras": "INCLUYE: Mate, pava, bombilla, yerbera/azucarera y plato.",
     "precio": 11300,
-    "imagen": "./assets/setMate.png"
+    "imagen": "assets/setMate.png"
   },
   {
     "id": "13",
     "nombre": "Set de Desayuno",
     "precio": 13900,
-    "imagen": "./assets/setDesayuno.png"
+    "imagen": "assets/setDesayuno.png"
   },
   {
     "id": "14",
     "nombre": "Set Mesa Evolutiva",
     "detalles": "MEDIDAS: Alto 42cm/Largo 61cm/Ancho 30cm.",
     "precio": 59990,
-    "imagen": "./assets/setMesa.png"
+    "imagen": "assets/setMesa.png"
   },
   {
     "id": "15",
     "nombre": "Set Market",
-    "detalles":"MEDIDAS: Alto 90cm/Largo 57cm/Ancho 30cm.",
+    "detalles": "MEDIDAS: Alto 90cm/Largo 57cm/Ancho 30cm.",
     "precio": 62990,
-    "imagen": "./assets/setMarket.png"
+    "imagen": "assets/setMarket.png"
   }
 ]
